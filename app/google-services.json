@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "181953051938",
+    "firebase_url": "https://bossnow-28c59.firebaseio.com",
+    "project_id": "bossnow-28c59",
+    "storage_bucket": "bossnow-28c59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181953051938:android:fadfe41cbc752c8f",
+        "android_client_info": {
+          "package_name": "softwareengineeringteam3.bossnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181953051938-ggpnmhl0p1lq90mffsrgjrpfeh4ocvr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "softwareengineeringteam3.bossnow",
+            "certificate_hash": "5ec18e33fb01e9ea6c60380bd38dbf665333750a"
+          }
+        },
+        {
+          "client_id": "181953051938-c4hra558i3i7jm0mlaifqqo065itm5c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5m9rVcXsisEfThLWektnhOI9TmYUBrc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181953051938-c4hra558i3i7jm0mlaifqqo065itm5c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
