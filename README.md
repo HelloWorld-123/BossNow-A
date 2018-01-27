@@ -5,7 +5,7 @@ University, Jaipur, India. He was a Microsoft Student partner where he developed
 enabled UWP apps, one of them having Machine Learning capability. He worked as an intern
 in figaro softwares, an oracle partner company in Warszawa, Poland for 6 months on position
 of software quality analyst. He worked as Data Analyst at a startup zillion.io, where he was
-handling data of Nike company. He also worked for TCS for 6 months before coming to UTA
+handling data of Nike company. He also worked for TCS for 6 months before coming to University of Texas at Arlington
 for MS in Computer Science.
 
 
