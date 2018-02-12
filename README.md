@@ -1,9 +1,9 @@
 # BossNow3
 
 Arpit Saxena completed his B-tech in Computer Science & Engineering in 2016 from JECRC
-University, Jaipur, India. He was a Microsoft Student partner where he developed 4 azure
+University, Jaipur, India. He is a Microsoft Student partner where he developed 4 azure
 enabled UWP apps, one of them having Machine Learning capability. He worked as an intern
-in figaro softwares, an oracle partner company in Warszawa, Poland for 6 months on position
+in figaro softwares, an oracle partner company in Warszawa, Poland for 3 months on position
 of software quality analyst. He worked as Data Analyst at a startup zillion.io, where he was
 handling data of Nike company. He also worked for TCS for 6 months before coming to University of Texas at Arlington
 for MS in Computer Science.
