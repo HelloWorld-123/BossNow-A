@@ -1,6 +1,6 @@
 # BossNow3
 
-##About Author: 
+## About Author: 
 
 Arpit Saxena completed his B-tech in Computer Science & Engineering in 2016 from JECRC
 University, Jaipur, India. He is a Microsoft Student partner where he developed 4 azure
@@ -12,7 +12,7 @@ for MS in Computer Science.
 
 
 
-## Why this app exists ?
+##  Why this app exists ?
 This app will allow users to act as buyers and sellers in required times. Through the app, the
 seller will post the pictures and give a brief description of the product to be sold. The sellers
 will be able to raise a quotation base price upon which buyers will raise it to their affordable
@@ -22,9 +22,9 @@ that particular product at the time. After the bidding, once the product is sold
 marked as sold in the app. Overall, this app will ensure smooth, profitable and fair transfer of
 a product from a seller to a buyer.
 
-##PURPOSE AND NEED
+## PURPOSE AND NEED
 
-### What the App will do ?
+###  What the App will do ?
 
 This app will provide the buyers, a facility to bid on the specific products that they are
 interested to purchase. The buyers can also chat with the sellers for queries about the product.
@@ -41,16 +41,16 @@ be used by both sellers who want to receive the highest price for their products
 want to purchase either a normal product or a product in high demand which is in limited
 quantity.
 
-##BENEFITS AND COSTS
+## BENEFITS AND COSTS
 
-### Is this a mobile version of an existing function?
+###  Is this a mobile version of an existing function?
 This is a new function which we are trying to implement. There are many online or mobile
 sales apps like Amazon, Walmart etc. but there never was a dynamic 2-way open bidding
 process where the buyer as well as the seller were in full control of the price of the desired
 product and where there was dynamic pricing i.e. Price of a product increases with increase in
 its demand.
 
-### What other resources will be utilized?
+###  What other resources will be utilized?
 To provide personalized experience to every user, we will be using GPS to look up the current
 location of the user with the permission of the user so that the delivery or shipping costs may
 be premeditated. There will also be an option to provide the zip code by the user so that location
@@ -59,11 +59,11 @@ information, their preferences, ratings, etc. we will create a separate database
 process will be taken care of by the Facebook or Google+ login process. The users can view
 their ordered or sold products in the Shopping Cart.
 
-##IMPLEMENTATION METHOD
+## IMPLEMENTATION METHOD
 We will implement this app using Android Studio and will present it on our own Smartphones.
 We will bundle it into a single APK file during final submission
 
-##FUNCTIONS OF THE APP
+## FUNCTIONS OF THE APP
 1) A system admin function that sets up the database
 There will be a system admin who will function to set up the database.
 2) sign-in credentialing and forgot password feature
@@ -94,7 +94,7 @@ The Buyer has the ability to track his ordered product. After buying the product
 receive a Tracking ID. When he will enter that Tracking ID in the Tracking page, the status of
 shipping of the product will be displayed. This completes the transparency in the entire process.
 
-###High-Level Use Cases
+## High-Level Use Cases
 
 UC 1: Monitor Posts.
 - TUCBW the admin clicks on the posts of users.
@@ -139,7 +139,7 @@ UC 14: Track the ordered Products
 - TUCBW the buyer clicks on ‘Tracking ID’.
 - TUCEW the buyer sees the Tracking details.
 
-##EXPANDED USE CASES
+## EXPANDED USE CASES
 UC1: MONITOR POSTS
 Actor: Admin System: App
 0. App displays the admin Homepage.
@@ -265,7 +265,7 @@ Actor: Buyer System: App
 3. TUCEW buyer sees the Tracking details.
 Post-Condition: The Buyer shall be able to Track order.
 
-##UI PROTOTYPES
+## UI PROTOTYPES
 Figure 1: Login Figure 2: Logout
 Figure 3: Home-screen Figure 4: App Welcome Page Logo
 Figure 5: Navigation Figure 6: View Posts
@@ -274,7 +274,7 @@ Figure 9: Bidding Figure 10: Post an Ad
 Figure 11: Tracking
 
 
-CHANGES MADE FROM ITERATION 2 TO ITERATION 3
+### CHANGES MADE FROM ITERATION 2 TO ITERATION 3
 1) In the Functional Requirements of the app, the stats has been removed as we
 display the stats in the firebase and not in the app.
 2) In the Functions of the app, Track the product has been added.
@@ -287,7 +287,7 @@ Requirements and the Use Cases has been changed.
 7) For the Domain Diagram, we have included the Multiplicity and Relationships.
 8) Sequence Diagram has been modified according to the Use Case Diagram.
 
-COMMENTS AND THEIR CORRESPONDING RE-WORKS
+## COMMENTS AND THEIR CORRESPONDING RE-WORKS
 Have you revisited the earlier diagrams to update them with any new knowledge you have about
 modeling and the App? Did not see any updates.
 Yes, We have revised all the earlier diagrams and mentioned the changes in the Iteration 3
